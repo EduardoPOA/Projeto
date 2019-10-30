@@ -1,5 +1,5 @@
 ﻿Feature: ApiStarWars
-Criando testes de api StarWars
+Criando testes de api url StarWars
 
 @Cenario People deve retornar Luke Skywalker
 Scenario: 01_Case test StarWars ApiPeople
