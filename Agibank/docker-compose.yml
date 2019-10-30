@@ -3,7 +3,7 @@ version: "3"
 services:
   teststarwars:
     build: .
-    image: eduardopoa/agibank:latest
+    #image: eduardopoa/agibank:latest
     container_name: "teststarwars"
     ports:
       - 10080:80
