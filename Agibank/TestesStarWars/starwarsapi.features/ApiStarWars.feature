@@ -24,7 +24,7 @@ Then recebo o nome do planeta 'Alderaan'
 @Cenario Species deve retornar Human
 Scenario: 05_Case test StarWars ApiSpecies
 When passo o id da especie '1'
-Then recebo o nome da especie 'Human'
+Then recebo o nome da especie 'Human' 
 
 @Cenario Species deve retornar Droid
 Scenario: 06_Case test StarWars ApiSpecies

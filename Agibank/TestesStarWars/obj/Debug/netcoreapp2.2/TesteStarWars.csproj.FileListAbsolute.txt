@@ -25,7 +25,6 @@ C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\bin\De
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\bin\Debug\netcoreapp2.2\TesteStarWars.runtimeconfig.dev.json
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\bin\Debug\netcoreapp2.2\TesteStarWars.dll
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\bin\Debug\netcoreapp2.2\TesteStarWars.pdb
-C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\obj\Debug\netcoreapp2.2\TesteStarWars.csprojAssemblyReference.cache
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\obj\Debug\netcoreapp2.2\TesteStarWars.AssemblyInfoInputs.cache
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\obj\Debug\netcoreapp2.2\TesteStarWars.AssemblyInfo.cs
 C:\Users\eduardo.oliveira\Documents\GitHub\Projeto\Agibank\TestesStarWars\obj\Debug\netcoreapp2.2\TesteStarWars.dll
